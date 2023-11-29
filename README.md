@@ -1,7 +1,7 @@
 <div align="center">
 	<a href="https://JVLsx.github.io">
 		<img height="100" src="https://github.com/JVLsx.png" alt="My avatar">
-		<h1>JVLs</h1>
+		<h1>JVLsx</h1>
 	</a>
 
 </div>
@@ -19,6 +19,6 @@
 	</a>
 </div>
 <br>
-<div align="center">
+<div align ="center">
 	<span>From Brazil</span>
 	<img height="12" src="https://raw.githubusercontent.com/josejefferson/josejefferson/master/img/brazil-flag-simplified.webp" alt="Brazil flag">
