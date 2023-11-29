@@ -14,7 +14,7 @@
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JVLsx/JVLsx/snake/github-snake-dark.svg" />
 			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JVLsx/JVLsx/snake/github-snake.svg" />
-@@ -43,17 +35,6 @@
+
 	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma">
 	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code">
 </div>
