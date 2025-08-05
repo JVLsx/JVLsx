@@ -21,4 +21,4 @@
 <br>
 <div align ="center">
 	<span>From Brazil</span>
-	<img height="12" src="https://raw.githubusercontent.com/josejefferson/josejefferson/master/img/brazil-flag-simplified.webp" alt="Brazil flag">
+	
