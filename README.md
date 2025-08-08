@@ -1,7 +1,7 @@
 <div align="center">
 	<a href="https://JVLsx.github.io">
 		<img height="100" src="https://github.com/JVLsx.png" alt="My avatar">
-		<h1>JVLsx</h1>
+		<h1>João Sousa</h1>
 	</a>
 </div>
 <div align = "center">
