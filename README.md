@@ -4,7 +4,10 @@
 		<h1>JVLsx</h1>
 	</a>
 </div>
- Estou aprendendo
+<div align = "center">
+	 Estou aprendendo
+</div>
+&nbsp;
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,py,html,css" />
