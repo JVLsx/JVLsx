@@ -3,8 +3,13 @@
 		<img height="100" src="https://github.com/JVLsx.png" alt="My avatar">
 		<h1>JVLsx</h1>
 	</a>
-
 </div>
+ Estou aprendendo
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,py,html,css" />
+  </a>
+</p>
 &nbsp;
 <div align="center">
 	<a href="https://github.com/JVLsx?tab=repositories">
